@@ -1,0 +1,6 @@
+# Project exclude paths
+/ts-prep/index.js
+/ts-prep/indexGenericTypes.js
+/ts-prep/indexInterfaceAndClass.js
+/ts-prep/indexInterfAndObj.js
+/ts-prep/indexWithClass.js
